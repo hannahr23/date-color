@@ -1,4 +1,4 @@
-windows.onload = function() {
+window.onload = function() {
   function displayDateTime() {
     const datetime = document.getElementById("datetime");
     const currentDate = new Date();
